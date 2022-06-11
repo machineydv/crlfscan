@@ -1,5 +1,6 @@
-# CRLFi
+# CRLFi (Old)
 ## Description
+- :warning: Before diving into my tools, read this: [NUKED](https://github.com/machineydv/machineydv/blob/master/NUKED.md)
 Semi Automated CRLF injection scanner with concurrency. Scans for CRLF injection in parameters, paths and netlocs.
 
 ## Features
